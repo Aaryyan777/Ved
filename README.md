@@ -2,13 +2,11 @@
 
 ## Unveiling Ancient Wisdom with Modern Technology
 
-![Rigveda Explorer Banner](https://via.placeholder.com/1200x400/F0E68C/8B4513?text=Rigveda+Explorer+-+Journey+Through+Ancient+Hymns)
-
 **Rigveda Explorer** is an innovative platform designed to make the oldest and most revered collection of Vedic Sanskrit hymns accessible and engaging for scholars, enthusiasts, and spiritual seekers alike. Leveraging cutting-edge web technologies and artificial intelligence, this project transforms the study of the Rigveda into an interactive and profound experience.
 
 ---
 
-## ✨ Introduction
+## Introduction
 
 The Rigveda, a foundational text of Hinduism, comprises over 10,552 verses organized into 10 Mandalas. It offers a window into the spiritual, cultural, and philosophical landscape of ancient India, dating back over 3,500 years. Rigveda Explorer aims to bridge the gap between this ancient wisdom and contemporary understanding by providing a rich, interactive environment for exploration, analysis, and contemplation.
 
@@ -16,11 +14,11 @@ Our platform goes beyond traditional textual study, offering dynamic visualizati
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 Rigveda Explorer is packed with features designed to enhance your journey through the sacred hymns:
 
-### 🌌 Interactive Exploration & Visualization
+### Interactive Exploration & Visualization
 *   **Interactive Mandala Explorer:** A sacred sun-wheel chakra visualization where clicking petals reveals Maṇḍalas, Sūktas, and glowing verses within a divine cosmic map.
 *   **Rig Veda Galaxy:** Experience the Rigveda as a cosmic universe. Each Sūkta is a star, verses orbit as planets, and nebula threads connect hymns, allowing you to zoom in and read the sacred verses.
 *   **Mandala Knowledge Graph:** A zoomable network linking suktas, deities, r̥ṣis, and metres via VedaWeb morphology, providing a comprehensive overview of interconnections.
@@ -31,12 +29,12 @@ Rigveda Explorer is packed with features designed to enhance your journey throug
 *   **Maṇḍala Evolution Timeline:** Visualize chronological layers, linguistic evolution, and thematic development across 400 years of composition.
 *   **Sanskrit Word Cloud:** A dynamic word frequency visualization with clickable words, morphological analysis, and category filtering.
 
-### 🧠 AI-Powered Insights
+### AI-Powered Insights
 *   **AI-Powered Verse Deep Dive:** Generate detailed explanations, historical context, and spiritual interpretations for any verse using advanced AI.
 *   **Thematic Significance (AI):** Deeper meaning generated via AI, offering fresh perspectives on the hymns.
 *   **Theme-in-30s:** Get a quick summary lens auto-generating deity, metre, and a 2-line gist with citations for rapid understanding.
 
-### 🎶 Practice & Learning
+### Practice & Learning
 *   **Svara Karaoke:** Microphone-based chanting practice with real-time udātta, anudātta, svarita coloring for authentic pronunciation.
 *   **Metre Inspector:** Click on pādas to see syllable counts, substitutions, and Rigvedic examples, aiding in the study of Vedic prosody.
 *   **Accent Tutor:** Tap syllables to hear udātta vs svarita pairs with Unicode codepoints, mastering Vedic accentuation.
@@ -46,7 +44,7 @@ Rigveda Explorer is packed with features designed to enhance your journey throug
 *   **Gayatri Deep-Dive:** A one-page explainer of RV 3.62.10 with metre notes and translation variants.
 *   **Why-this-metre Cards:** Micro-explanations pairing metre with rhetorical feel and prevalence stats.
 
-### 🎨 Creative & Meditative Experiences
+### Creative & Meditative Experiences
 *   **Chandas Canvas:** An interactive metre map where each pāda animates to Gayatri, Trishtubh, Jagati with syllable clocks.
 *   **Pitch-to-Light Visualizer:** Map accent contours to gentle light pulses and binaural panning for a unique meditative experience.
 *   **Meter-as-Music Generator:** Convert syllable lengths to percussive tala sequences, preserving metre counts and creating unique musical interpretations.
@@ -54,7 +52,7 @@ Rigveda Explorer is packed with features designed to enhance your journey throug
 *   **Acoustic Visualization:** Real-time audio-reactive visualization with waveforms, pitch accent particles, and flowing energy mandala.
 *   **Mandala Moodboard:** Topic clusters per book with meter distribution bars for instant character feel.
 
-### 📚 Reference & Compliance
+### Reference & Compliance
 *   **Multiple Translations:** Access authoritative translations to understand the true essence of each hymn.
 *   **Source Attribution:** Hover-citations to edition, metre, and dictionary entry for academic rigor.
 *   **Translation Picker:** Auto-suggests public-domain translations with one-tap source notice.
@@ -64,7 +62,7 @@ Rigveda Explorer is packed with features designed to enhance your journey throug
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 *   **Framework:** Next.js (React)
 *   **Language:** TypeScript
@@ -77,7 +75,7 @@ Rigveda Explorer is packed with features designed to enhance your journey throug
 
 ---
 
-## 🚀 Getting Started (Local Development)
+## Getting Started (Local Development)
 
 To set up and run Rigveda Explorer on your local machine, follow these steps:
 
@@ -88,7 +86,7 @@ To set up and run Rigveda Explorer on your local machine, follow these steps:
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/rigveda-explorer.git
+    git clone https://github.com/Aaryyan777/Ved.git
     cd rigveda-explorer
     ```
 2.  **Install dependencies:**
